@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @xaviersoftdev
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning Java and Python
-- 💞️ I’m looking to collaborate on any interesting project.
-- 📫 How to reach me ...
+- Hi, I’m Xavier Roca
+- I’m a software development and computer programming student at WTCC
+- I’m interested in learning new technologies and working on fun projects. I intend to finish my bachelor's degree in software engineering. 
+- I’m looking to collaborate on any interesting project.
+- How to reach me xroca@my.waketech.edu / xavierg35@outlook.com
 
 <!---
 xaviersoftdev/xaviersoftdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
